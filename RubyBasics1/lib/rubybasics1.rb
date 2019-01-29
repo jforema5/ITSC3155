@@ -6,7 +6,7 @@ end
 
 # Part II
 def max_2_sum arr
-  # YOUR CODE HERE
+  arr.max(2).sum(0)
 end
 
 # Part III
